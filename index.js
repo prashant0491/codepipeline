@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 <<<<<<< HEAD
  res.send('Welcome to latur ');
 =======
- res.send('Welcome  to mumbai');
+ res.send('Welcome  to mumbai city ');
 >>>>>>> b54c9f4a4c698237f4b2947a88fa34bc4b32faff
 =======
  res.send('Welcome to pune kothurd');
